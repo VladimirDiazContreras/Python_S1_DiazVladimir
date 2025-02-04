@@ -1,3 +1,4 @@
+## lista de nombres y apellidos en la que se pueden cambiar nombres y apellidos 
 nombres = [
     ["Adrián"],
     ["Alejandra"],
@@ -161,4 +162,4 @@ while booleanito:
                 print(f"Estudiante #{i+1}: {nombres[i]} [Apellido no disponible]")
         numeroEstudiante = int(input("¿De qué estudiante quieres eliminar el apellido  ? (Número): "))
         apellidos.pop(numeroEstudiante-1)
-
+## desarrollado por : vladimir diaz contreras Ti: 1096066731
