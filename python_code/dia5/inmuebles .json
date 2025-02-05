@@ -1,0 +1,37 @@
+[
+    {
+        "a\u00f1o": 2000,
+        "metros": 100,
+        "habitaciones": 3,
+        "garaje": true,
+        "zona": "A"
+    },
+    {
+        "a\u00f1o": 2012,
+        "metros": 60,
+        "habitaciones": 2,
+        "garaje": true,
+        "zona": "B"
+    },
+    {
+        "a\u00f1o": 1988,
+        "metros": 128,
+        "habitaciones": 4,
+        "garaje": false,
+        "zona": "A"
+    },
+    {
+        "a\u00f1o": 2005,
+        "metros": 75,
+        "habitaciones": 3,
+        "garaje": true,
+        "zona": "B"
+    },
+    {
+        "a\u00f1o": 2015,
+        "metros": 90,
+        "habitaciones": 2,
+        "garaje": false,
+        "zona": "A"
+    }
+]
