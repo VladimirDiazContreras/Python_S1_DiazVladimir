@@ -4,7 +4,7 @@ este git del proyecto
 
 ## Tabla de contenidos
 | días |contenidos  |
-|--|--|--|
+|--|--|
 | día 1 |vació   
 | día 2 |convencional de temperatura      
 | día 3 |listas     
