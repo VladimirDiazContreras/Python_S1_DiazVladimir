@@ -3,13 +3,13 @@
 este git del proyecto  
 
 ## Tabla de contenidos
-| Indice | días |días |
+| Indice | días |contenidos  |
 |--|--|--|--|
-| 1 | día 1 |vació   |
-| 2 | día 2 |convencional de temperatura      |
-| 3 | día 3 |listas     |
-| 4 | día 4 |importación de módulos        |
-| 5 | día 5 | diccionarios        |
+| 1 | día 1 |vació   
+| 2 | día 2 |convencional de temperatura      
+| 3 | día 3 |listas     
+| 4 | día 4 |importación de módulos        
+| 5 | día 5 | diccionarios        
 
 
 
